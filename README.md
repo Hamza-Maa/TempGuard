@@ -2,8 +2,6 @@
 
 TempGuard is a Flutter-based mobile application designed for monitoring temperature and humidity using connected sensors. With TempGuard, you can manage sensors, set alerts, and visualize data through interactive charts.
 
-![TempGuard Logo](assets/tempguard_logo.png)
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -32,9 +30,9 @@ TempGuard provides a user-friendly interface to monitor temperature and humidity
 ## Screenshots
 
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
-  <img src="screenshots/alerts_list.png" alt="Alerts List" width="250"/>
-  <img src="screenshots/devices_details.png" alt="Devices Details" width="250"/>
-  <img src="screenshots/devices_list.png" alt="Devices List" width="250"/>
+  <img src="Screenshots/Alerts%20List.png" alt="Alerts List" width="250"/>
+  <img src="Screenshots/Devices%20Details.png" alt="Devices Details" width="250"/>
+  <img src="Screenshots/Devices%20List.png" alt="Devices List" width="250"/>
 </div>
 
 ## Installation
