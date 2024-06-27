@@ -95,10 +95,6 @@ TempGuard simplifies monitoring environmental conditions and ensures you stay in
 - Receive notifications when conditions exceed predefined thresholds.
 - Analyze historical data trends to optimize environmental management.
 
-## Troubleshooting
-
-If you encounter any issues or have questions, please check our [FAQ](faq.md) or contact our support team at support@tempguard.com.
-
 ## Contributing
 
 We welcome contributions to TempGuard! If you have suggestions for new features or find any bugs, please submit an issue or pull request.
