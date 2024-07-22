@@ -28,12 +28,13 @@ TempGuard provides a user-friendly interface to monitor temperature and humidity
 - **Responsive Design**: Optimized for both Android and iOS devices.
 
 ## Screenshots
-
-<div style="display: flex; flex-direction: row; justify-content: space-around;">
-  <img src="Screenshots/Alerts%20List.png" alt="Alerts List" width="250"/>
-  <img src="Screenshots/Devices%20Details.png" alt="Devices Details" width="250"/>
-  <img src="Screenshots/Devices%20List.png" alt="Devices List" width="250"/>
-</div>
+Here are some screenshots of the Shopping Temperature Measure App:
+<p align="center">
+  <img src="Screenshots/login.png" />
+  <img src="Screenshots/home page.png"/>
+  <img src="Screenshots/Feautures.png"/>
+  <img src="Screenshots/Settings.png"/>
+</p>
 
 ## Installation
 
